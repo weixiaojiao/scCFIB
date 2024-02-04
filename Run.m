@@ -47,3 +47,4 @@ ari = func_ari(gnd',cellT{1}.Pt_x);
 nmi =func_nmi(gnd',cellT{1}.Pt_x);
 disp([' ARI is:  ' num2str(ari)]);
 disp([' NMI is:  ' num2str(nmi)]);
+
