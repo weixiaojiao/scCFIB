@@ -1,7 +1,7 @@
 # scCFIB
 Clustering scRNAseq data via cross-view information fusion
 
-Quick start:
+# Quick start:
 Download the datasets from the website as the paper described, and download the
 code files in  this repository and import function in them.
 1. Preprocess datasets
