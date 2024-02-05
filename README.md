@@ -4,6 +4,7 @@ Clustering scRNAseq data via cross-view information fusion
 # Quick start:
 Download the datasets from the website as the paper described, and download the
 code files in  this repository and import function in them. <br>
+
 1.Preprocess datasets <br>
 &nbsp;&nbsp;&nbsp;&nbsp;scCFIB takes the preprocessed dataset as input. Single cell data preprocessing can be executed with preprocess.py using the scanpy Python package. <br>
 2.Graph building <br>
