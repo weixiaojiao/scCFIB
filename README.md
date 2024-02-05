@@ -5,10 +5,13 @@ Clustering scRNAseq data via cross-view information fusion
 Download the datasets from the website as the paper described, and download the
 code files in  this repository and import function in them.
 1. Preprocess datasets
+
    scCFIB takes the preprocessed dataset as input. Single cell data preprocessing can be executed with preprocess.py using the scanpy Python package.
-3. Graph building
+2. Graph building
+
    Compute the adjacency matrix using Construction_graph.py  while standardizing the processed data.
-4. Run scCFIB algorithm
+3. Run scCFIB algorithm
+
    Run scCFIB algorithm with Run.m to obtain the final clustering result.
 
 # Requirements:
