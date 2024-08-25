@@ -16,19 +16,20 @@ Python --- 3.9  scanpy --- 1.9.1  numpy --- 1.19.3 <br>
 pandas --- 1.4.3  scipy --- 1.9.0  scikit-learn --- 1.1.1
 
 # Datasets
-The datasets and accession numbers obtained from the [GEO website] (https://www.ncbi.nlm.nih.gov/geo/) :Biase(GSE57249), Chung(GSE75688), Sun.1/Sun.2/Sun.3(GSE128066), Brown.1(GSE137710), 
-Well-paired-Seq_PBMC (GSE192708), Chen(GSE87544). <br>
+The datasets and accession numbers obtained from the [GEO website] (https://www.ncbi.nlm.nih.gov/geo/) :Biase(GSE57249),Treurlein(GSE52583), Yan(GSE36552), Chung(GSE75688), Klein(GSE65525), Muraro(GSE85241), Romanov(GSE74627), Sun.1/Sun.2/Sun.3(GSE128066), Brown.1(GSE137710), Well-paired-Seq_PBMC (GSE192708), Chen(GSE87544). <br>
 
 Mouse_bladder dataset originates from the Mouse Cell Atlas project [https://figshare.com/s/865e694ad06d5857db4b](https://figshare.com/s/865e694ad06d5857db4b). <br>
 
-Darmanis and Buttener dataset can be downloaded from [https://github.com/BatzoglouLabSU/SIMLR/tree/SIMLR/data](https://github.com/BatzoglouLabSU/SIMLR/tree/SIMLR/data). <br>
+Darmanis, Buttener and Kolodziejczyk dataset can be downloaded from [https://github.com/BatzoglouLabSU/SIMLR/tree/SIMLR/data](https://github.com/BatzoglouLabSU/SIMLR/tree/SIMLR/data). <br>
 
 10X_PBMC can be obtained at [https://github.com/ttgump/scDeepCluster/tree/master/scRNA-seq%20data](https://github.com/ttgump/scDeepCluster/tree/master/scRNA-seq%20data). <br>
 
 PBMC can download form [https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/pbmc6k](https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/pbmc6k). <br>
 
-Goolam can be gain form [https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-3321/E-MTAB-3321.processed.1.zip](https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-3321/E-MTAB-3321.processed.1.zip). <br>
+Goolam can be gained form [https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-3321/E-MTAB-3321.processed.1.zip](https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-3321/E-MTAB-3321.processed.1.zip). <br>
 
-The other datasets are downloaded from [https://hemberg-lab.github.io/scRNA.seq.datasets/](https://hemberg-lab.github.io/scRNA.seq.datasets/). <br>
+CD19 can get form [https://www.10xgenomics.com/datasets/cd-19-plus-b-cells-1-standard-1-1-0](https://www.10xgenomics.com/datasets/cd-19-plus-b-cells-1-standard-1-1-0). <br>
+
+The other datasets (Deng, Pollen, Baron_mouse) are downloaded from [https://hemberg-lab.github.io/scRNA.seq.datasets/](https://hemberg-lab.github.io/scRNA.seq.datasets/). <br>
 
 
