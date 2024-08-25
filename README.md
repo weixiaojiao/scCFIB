@@ -29,6 +29,6 @@ PBMC can download form [https://support.10xgenomics.com/single-cell-gene-express
 
 Goolam can be gain form [https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-3321/E-MTAB-3321.processed.1.zip](https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-3321/E-MTAB-3321.processed.1.zip). <br>
 
-other datasets are downloaded from [https://hemberg-lab.github.io/scRNA.seq.datasets/](https://hemberg-lab.github.io/scRNA.seq.datasets/). <br>
+The other datasets are downloaded from [https://hemberg-lab.github.io/scRNA.seq.datasets/](https://hemberg-lab.github.io/scRNA.seq.datasets/). <br>
 
 
